@@ -1,3 +1,7 @@
+/**
+ * Ghost Button Dark Mode Contrast Hotfix
+ * Targets the hover state of ghost buttons specifically inside dark layouts.
+ */
 .dark-mode .ease-btn-ghost:hover {
     color: #000000 !important;
 }
